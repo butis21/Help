@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2024.2.18.0" projectFile="C:\Users\Roman\Desktop\Documentation1\Documentation1.shfbproj" started="07.04.2024 22:31:32">
+<buildStep step="Initializing">
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
+Locating components in the following folder(s):
+    C:\Users\Roman\Desktop\Documentation1
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components
+Using framework reflection data for &#39;.NET Framework 4.7.2&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using presentation style &#39;Default2022&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022&#39;
+Loading and initializing plug-ins...
+Website Table of Contents Generator Version 2024.2.18.0
+Copyright &#169; 2006-2024, Eric Woodruff, All Rights Reserved
+-------------------------------
+Clearing any prior web/markdown output...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\Roman\Desktop\OOO Sport\bin\Debug\OOO Sport.xml
+Source: C:\Users\Roman\Desktop\OOO Sport\bin\Debug\OOO Sport.exe
+    Found assembly &#39;C:\Users\Roman\Desktop\OOO Sport\bin\Debug\OOO Sport.exe&#39;
+
+Copying XML comments files
+    C:\Users\Roman\Desktop\OOO Sport\bin\Debug\OOO Sport.xml -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\OOO Sport.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (ru-RU, Русский (Россия))...
+    Last step completed in 00:00:00,0020
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00,0010
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe - GenerateRefInfo-477fa81b-79e8-4b99-a384-b82c61dde31b.proj]
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 07.04.2024 22:31:33.
+
+Џа&#174;ҐЄв &quot;C:\Users\Roman\Desktop\Documentation1\Help\Working\GenerateRefInfo-477fa81b-79e8-4b99-a384-b82c61dde31b.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+PrepareForBuild:
+  ‘&#174;&#167;&#164;&#160;&#173;ЁҐ Є&#160;в&#160;&#171;&#174;Ј&#160; &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  Microsoft.Build (v17.8.3+195e7f5a3a8e51c37d83cd9e54cb99dc3fc69c22)
+  c Microsoft Corporation. All rights reserved.
+  No source code context base path specified.  Source context information is unavailable.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 1 namespaces, 18 types, and 98 members
+  Merging duplicate type and member information
+  Merged 0 duplicate type(s) and 0 duplicate member(s)
+‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;C:\Users\Roman\Desktop\Documentation1\Help\Working\GenerateRefInfo-477fa81b-79e8-4b99-a384-b82c61dde31b.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+    Last step completed in 00:00:01,3480
+</buildStep>
+<buildStep step="ApplyDocumentModel">
+Applying document model to reflection output...
+    Last step completed in 00:00:00,1940
+</buildStep>
+<buildStep step="AddApiTopicFilenames">
+Adding topic filenames to API members...
+    Last step completed in 00:00:00,0890
+</buildStep>
+<buildStep step="GenerateApiTopicManifest">
+Generating API topic manifest...
+    Last step completed in 00:00:00,0640
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00,0580
+</buildStep>
+<buildStep step="CopyConceptualContent">
+Copying conceptual content...
+Checking for token files...
+Checking for code snippets files...
+Copying images and creating the media map file...
+Generating conceptual topic files
+    Parsing topic file &#39;C:\Users\Roman\Desktop\Documentation1\Content\Welcome.aml&#39;
+    C:\Users\Roman\Desktop\Documentation1\Content\Welcome.aml -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\ddueXml\bd580018-cc8f-4ff8-9950-2ae34d3aecd9.xml
+    Parsing topic file &#39;C:\Users\Roman\Desktop\Documentation1\Content\VersionHistory\VersionHistory.aml&#39;
+    C:\Users\Roman\Desktop\Documentation1\Content\VersionHistory\VersionHistory.aml -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\ddueXml\48c68d31-1ec4-406f-8d8e-e63fab0ed95a.xml
+    Parsing topic file &#39;C:\Users\Roman\Desktop\Documentation1\Content\VersionHistory\v1.0.0.0.aml&#39;
+    C:\Users\Roman\Desktop\Documentation1\Content\VersionHistory\v1.0.0.0.aml -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\ddueXml\9af665b6-922b-4395-aed4-96e9f3ada304.xml
+    Last step completed in 00:00:00,0160
+</buildStep>
+<buildStep step="CreateConceptualTopicConfigs">
+Creating conceptual topic configuration files...
+    Companion files
+    _ContentMetadata_.xml
+    Merging topic IDs into reference topic manifest file
+    Last step completed in 00:00:00,0050
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+C:\Users\Roman\Desktop\Documentation1\icons\Help.png -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\icons\Help.png
+    Last step completed in 00:00:00,0030
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00,0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file for API content...
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00,1430
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    Last step completed in 00:00:00,1420
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00,0020
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\Roman\Desktop\Documentation1\Help\Working\BuildAssembler.config
+  Updating reference topic configurations.
+  Updating conceptual topic configurations.
+    Removing unused ExampleComponent.
+    Last step completed in 00:00:00,0050
+</buildStep>
+<buildStep step="BuildTopics">
+Building help topics...
+<plugIn name="Website Table of Contents Generator" behavior="Before" priority="1000">
+Loading TOC info and adding unique IDs to parent nodes
+</plugIn>Loading configuration...
+Processing topics...
+SHFB: Warning BE0066: ShowMissingComponent: [N:OOO_Sport] Missing &lt;summary&gt; documentation
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.AddProductWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.AddProductWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Events.T:OOO_Sport.AddProductWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.AddProductWindow.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.AddProductWindow.InitializeComponent] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.App] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.App] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Events.T:OOO_Sport.App] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.App.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.App.InitializeComponent] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.App.Main] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.EditProductWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.EditProductWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Events.T:OOO_Sport.EditProductWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.EditProductWindow.#ctor(OOO_Sport.Товары)] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.EditProductWindow.InitializeComponent] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.MainWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.MainWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Events.T:OOO_Sport.MainWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Fields.T:OOO_Sport.MainWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.MainWindow.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.MainWindow.DataFiller] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.MainWindow.InitializeComponent] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [F:OOO_Sport.MainWindow.listProducts] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [F:OOO_Sport.MainWindow.Sport_DBEntities] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.OrderViewWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.OrderViewWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Events.T:OOO_Sport.OrderViewWindow] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.OrderViewWindow.#ctor(System.Collections.Generic.List{OOO_Sport.Заказный_Элемент})] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.OrderViewWindow.InitializeComponent] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Sport_DBEntities] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Sport_DBEntities] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Sport_DBEntities.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Sport_DBEntities.OnModelCreating(System.Data.Entity.DbModelBuilder)] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.sysdiagrams] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.Детали_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.Заказы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.Пользователи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.Пункты_выдачи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.Роли] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.Статусы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Sport_DBEntities.Товары] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.sysdiagram] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.sysdiagram] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.sysdiagram.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.sysdiagram.definition] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.sysdiagram.diagram_id] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.sysdiagram.name] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.sysdiagram.principal_id] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.sysdiagram.version] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Window1] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Window1] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Events.T:OOO_Sport.Window1] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Fields.T:OOO_Sport.Window1] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Window1.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [F:OOO_Sport.Window1.allowchar] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Window1.InitializeComponent] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [F:OOO_Sport.Window1.pwd] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Window2] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Window2] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Events.T:OOO_Sport.Window2] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Window2.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Window2.InitializeComponent] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [E:OOO_Sport.Window2.RoleSelected] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Window2.RoleEventArgs] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Window2.RoleEventArgs] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Window2.RoleEventArgs.#ctor(OOO_Sport.Пользователи)] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Window2.RoleEventArgs.User] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Детали_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Детали_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Детали_заказа.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Детали_заказа.id_детали_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Детали_заказа.id_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Детали_заказа.id_товара] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Детали_заказа.Заказы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Детали_заказа.количество] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Детали_заказа.Товары] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Заказный_Элемент] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Заказный_Элемент] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Заказный_Элемент.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказный_Элемент.Количество] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказный_Элемент.Название] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказный_Элемент.Скидка] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказный_Элемент.Сумма] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказный_Элемент.Товар] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказный_Элемент.Цена] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Заказы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Заказы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Заказы.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.id_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.id_пользователя] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.id_статуса] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.дата_создания] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.Детали_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.код_талона] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.общая_скидка] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.общая_сумма] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.Пользователи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.пункт_выдачи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Заказы.Статусы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Пользователи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Пользователи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Пользователи.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.id_пользователя] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.id_роли] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.Заказы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.имя_пользователя] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.пароль] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.Роли] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.телефон] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пользователи.электронная_почта] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Пункты_выдачи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Пункты_выдачи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Пункты_выдачи.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пункты_выдачи.id_пункта] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пункты_выдачи.местоположение] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Пункты_выдачи.рабочие_часы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Роли] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Роли] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Роли.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Роли.id_роли] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Роли.наименование] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Роли.Пользователи] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Статусы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Статусы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Статусы.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Статусы.id_статуса] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Статусы.Заказы] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Статусы.наименование] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Статусы.описание] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Methods.T:OOO_Sport.Товары] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [Properties.T:OOO_Sport.Товары] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [M:OOO_Sport.Товары.#ctor] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.id_товара] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.URI_изображение] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.Детали_заказа] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.название] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.описание] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.остаток_на_складе] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.производитель] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.ПутьКИзо] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.скидка] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+SHFB: Warning BE0066: SharedContentComponent: [P:OOO_Sport.Товары.цена] Missing shared content item. Tag: &#39;include&#39;; Id:&#39;text_classLower&#39;.
+Processed 165 topic(s)
+144 warning(s)
+CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
+ResolveArtLinksComponent: Copying media files...
+CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 4 of 15.
+CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 5 of 30.
+<plugIn name="Website Table of Contents Generator" behavior="After" priority="1000">
+Generating TOC fragment files
+</plugIn>    Last step completed in 00:00:08,4110
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\bulma.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.css.map -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\bulma.css.map
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\bulma.min.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\bulma.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\font-awesome.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\font-awesome.min.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\font-awesome.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ja-JP.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\ko-KR.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\presentationStyle.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\presentationStyle.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\vs.min.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\vs.min.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-CN.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\css\zh-TW.css -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\css\zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\icons\favicon.ico -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\clipboard.min.js -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\scripts\clipboard.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\highlight.min.js -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\scripts\highlight.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\jquery-3.5.1.min.js -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\scripts\jquery-3.5.1.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\scripts\presentationStyle.js -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\scripts\presentationStyle.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.ttf -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-brands-400.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-brands-400.woff2 -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-brands-400.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.ttf -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-regular-400.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-regular-400.woff2 -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-regular-400.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.ttf -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-solid-900.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-solid-900.woff2 -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-solid-900.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.ttf -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-v4compatibility.ttf
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\webfonts\fa-v4compatibility.woff2 -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\webfonts\fa-v4compatibility.woff2
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\GeneralError.html -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\GeneralError.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\index.html -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\PageNotFound.html -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\PageNotFound.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\search.html -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.aspx -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.inc.php -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\SearchHelp.php -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components\Default2022\RootWebsiteContent\Web.Config -&gt; C:\Users\Roman\Desktop\Documentation1\Help\Working\Output\Website\Web.Config
+    Last step completed in 00:00:00,1220
+</buildStep>
+<buildStep step="GenerateFullTextIndex">
+Generating full-text index for the website...
+
+    Last step completed in 00:00:00,5280
+</buildStep>
+<buildStep step="CopyingWebsiteFiles">
+Copying website files to output folder...
+
+Copied 291 files for the website content
+    Last step completed in 00:00:00,4090
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00,1710
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 07.04.2024 22:31:44.  Total time: 00:00:12,2203
+
+</buildStep>
+</shfbBuild>
